@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.3">
+        <ModelTarget name="heart1" targetId="a62cc8ec0bcd405caa20a6309f08eaa8" version="13.0" toolVersion="v6.2.3" bbox="-0.036925 -0.000018 -0.000018 0.000018 0.033752 0.015019" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="heart1" assemblyId="facc8481c12a4ea6838059c0fa572c73">
+        <Part name="heart1" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

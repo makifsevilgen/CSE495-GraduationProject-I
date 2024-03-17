@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sevilgen/Desktop/Unity/GraduationProject/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/sevilgen/Desktop/Unity/GraduationProject/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,95",
+                        "endColumns": "41,65",
+                        "endOffsets": "92,158"
+                    },
+                    "to": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "870,914",
+                        "endColumns": "43,67",
+                        "endOffsets": "909,977"
+                    }
+                },
+                {
+                    "source": "/Users/sevilgen/.gradle/caches/transforms-3/a4f77aee30afb3ed941a51b195c74806/transformed/VuforiaEngine/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "79",
+                        "endOffsets": "130"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "982",
+                        "endColumns": "79",
+                        "endOffsets": "1057"
+                    }
+                },
+                {
+                    "source": "/Users/sevilgen/.gradle/caches/transforms-3/ece6358c3c3b544f3d6f3cc51ffa918c/transformed/arcore_client/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "424,475,530,656,782",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "470,525,651,777,865"
+                    }
+                },
+                {
+                    "source": "/Users/sevilgen/Desktop/Unity/GraduationProject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,169,226,282,331,377,424,524,662",
+                        "endLines": "2,3,4,5,6,7,8,10,13,17",
+                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "118,164,221,277,326,372,419,519,657,884"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,169,226,282,331,377,1062,1162,1300",
+                        "endLines": "2,3,4,5,6,7,8,18,21,25",
+                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "118,164,221,277,326,372,419,1157,1295,1522"
+                    }
+                }
+            ]
+        }
+    ]
+}

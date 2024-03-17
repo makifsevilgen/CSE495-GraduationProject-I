@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "5c06438d2d71",
+        "mtime": 1699435075000,
+        "size": 140288446,
+        "localPath": "/Users/sevilgen/Desktop/Unity/GraduationProject/Packages/com.ptc.vuforia.engine-10.19.3.tgz"
+      }
+    }
+  }
+}
